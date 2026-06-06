@@ -93,10 +93,10 @@ public class Main {
 
 ## OUTPUT:
 ```
-Ganesh
+Sarweshvaran
 100
 AIML
-Name: GaneshEmp_ID: 100Department: AIML
+Name: SarweshEmp_ID: 100Department: AI&DS
 ```
 
 ## RESULT:
